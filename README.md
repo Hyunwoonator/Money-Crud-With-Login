@@ -8,7 +8,7 @@ The login and signup system currently does not work along with the CRUD...
 
 For the live demo go here -->> https://money-crud.herokuapp.com/
 
-![Repl.it logo](https://repl.it/public/images/icon-square.png)
+![Repl.it logo](Screenshot 2021-10-11 12.25.08 PM.png)
 
 ## Credits
 
